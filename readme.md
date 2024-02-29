@@ -41,7 +41,12 @@ Sui 是一种高吞吐量、低延迟的区块链，旨在为 Web3 应用程序�
 - https://github.com/MystenLabs
 - https://github.com/move-cn
 
-
+### 线上线下活动赞助
+- 按需申请并且会审核
+- 在线分享/推特Space/腾讯会议 300-500RMB等值(SUI)/次
+- 线下Move Meetup  1K USD 原则上大于50人参与
+- Move Bootcamp/共学 3k-5K USD  参与人数大于200，实际完成学习需要大于50
+- 线下包含Sui & Move 演讲 100USD-300USD
 
 # 如何认证奖励
 首先需要在creator下面根据自己的github id创建自己的目,根据githubid 目录提供的模板填写自己的信息
