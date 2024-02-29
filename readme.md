@@ -37,6 +37,7 @@ Sui 是一种高吞吐量、低延迟的区块链，旨在为 Web3 应用程序�
 - 有价值 move & Sui 公共物品  1000-5000RMB(等值SUI)不等
 
 ### 当前贡献范围 包括官方文档，官网，书籍
+- 仅限于Move ,Sui相关或者推广文章
 - https://github.com/MystenLabs
 - https://github.com/move-cn
 
