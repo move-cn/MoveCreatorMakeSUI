@@ -26,3 +26,6 @@ https://zhuanlan.zhihu.com/p/686269165
 
 游戏测试服 请把sui钱包调整至测试网状态 testnet
 https://handbattle.etboodonline.com
+
+csdn
+https://editor.csdn.net/md/?articleId=136753082
