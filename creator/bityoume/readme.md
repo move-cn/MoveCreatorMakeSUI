@@ -10,6 +10,9 @@
 
 | 发布时间   | 文章链接                                                     |
 | ---------- | ------------------------------------------------------------ |
+| 2024.03.15 | [SUI Move开发必知必会——如何进行远程合约调用](https://learnblockchain.cn/article/7623) |
+| 2024.03.09 | [SUI Move合约学习与实践——极简IDO合约](https://learnblockchain.cn/article/7624) |
+| 2024.03.07 | [Dacade平台SUI Move挑战者合约实践——去中心化市场DApp（Sui Move Marketplace DApp）](https://learnblockchain.cn/article/7528) |
 | 2024.03.03 | [Dacade平台我的SUI Move挑战合约——幸运咖啡馆（Lucky Cafe）](https://learnblockchain.cn/article/7493) |
 | 2024.02.28 | [Dacade平台SUI Move挑战者合约实践——SUID简单流动性质押池（SUID -Staking Pool Module）](https://learnblockchain.cn/article/7460) |
 | 2024.02.24 | [Dacade平台SUI Move挑战者合约实践——去中心化自由职业市场（Decentralized Freelance Marketplace）](https://learnblockchain.cn/article/7441) |
