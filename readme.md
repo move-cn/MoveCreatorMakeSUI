@@ -8,6 +8,9 @@
 - 微信公众号: ![move_cn_wechat.png](images/move_cn_wechat.png)
 - Sui中文开发群: https://t.me/sui_dev_cn
 
+## 参与前提
+- 避免无效贡献, 需要先完成move语言的学习和 [Let's Move](https://github.com/move-cn/letsmove) 的挑战任务
+
 ## 贡献提醒
 - 不能抄袭，复制别人的文章, 翻译文章理论先征询原作者
 - 内容目前只接受Sui相关
