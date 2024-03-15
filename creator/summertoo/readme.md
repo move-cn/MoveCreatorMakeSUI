@@ -9,3 +9,23 @@
 
 # 贡献列表
 
+## Sui环形掌上战争 系列文
+
+更新到第二章
+
+Sui环形掌上战争 0基础开发入门到精通系列
+
+登链
+https://learnblockchain.cn/article/7556
+
+掘金
+https://juejin.cn/post/7344260655757049893
+
+知乎
+https://zhuanlan.zhihu.com/p/686269165
+
+游戏测试服 请把sui钱包调整至测试网状态 testnet
+https://handbattle.etboodonline.com
+
+csdn
+https://editor.csdn.net/md/?articleId=136753082
