@@ -8,7 +8,7 @@ Go/Rust, 迷茫一年, 现在重新上路, 目前在学习区块链相关知识,
 # 贡献列表
 - 2024-3-20
   - CSDN: https://blog.csdn.net/weixin_44578708/article/details/136859791
-  - 登链: 
+  - 登链: https://learnblockchain.cn/article/7672
   - 掘金: https://juejin.cn/post/7347958786050932787
 - 2024-3-17
   - CSDN: https://blog.csdn.net/weixin_44578708/article/details/136780070
