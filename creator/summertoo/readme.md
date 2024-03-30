@@ -11,11 +11,11 @@
 
 ## Sui环形掌上战争 系列文
 
-三月 6篇 登链 掘金 知乎 csdn 同步更新
-更新到第六章
+## 三月 创作总数 7篇  
+登链 掘金 知乎 csdn 同步更新
 
-Let's Move Sui环形掌上战争 0基础开发入门到精通系列
 
+## Sui环形掌上战争 0基础开发入门到精通系列
 
 登链
 Let's Move Sui环形掌上战争 0基础开发入门到精通(1)
@@ -33,8 +33,14 @@ https://learnblockchain.cn/article/7738
 Let's Move Sui环形掌上战争 0基础开发入门到精通(5)
 https://learnblockchain.cn/article/7749
 
+## 0基础开发web3游戏&应用系列
+
 Let's Move 0基础web2向web3迁移指南 (1)
 https://learnblockchain.cn/article/7753
+
+Let's Move 0基础web2向web3迁移指南 (2)
+https://learnblockchain.cn/article/7773
+
 
 掘金
 https://juejin.cn/post/7344260655757049893
