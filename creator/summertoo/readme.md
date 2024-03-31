@@ -11,7 +11,7 @@
 
 ## Sui环形掌上战争 系列文
 
-## 三月 创作总数 7篇  
+## 三月 创作总数 8篇  
 登链 掘金 知乎 csdn 同步更新
 
 
@@ -32,6 +32,9 @@ https://learnblockchain.cn/article/7738
 
 Let's Move Sui环形掌上战争 0基础开发入门到精通(5)
 https://learnblockchain.cn/article/7749
+
+Let's Move Sui环形掌上战争 0基础开发入门到精通(6)
+https://learnblockchain.cn/people/18444
 
 ## 0基础开发web3游戏&应用系列
 
