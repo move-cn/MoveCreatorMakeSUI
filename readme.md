@@ -50,7 +50,6 @@ Sui 是一种高吞吐量、低延迟的区块链，旨在为 Web3 应用程序�
 ### 当前贡献范围 包括官方文档，官网，书籍
 - 仅限于Move ,Sui相关或者推广文章
 - https://github.com/MystenLabs
-- https://github.com/move-cn
 
 ### 线上线下活动
 - 按需申请并且会审核
