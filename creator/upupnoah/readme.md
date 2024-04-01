@@ -6,6 +6,8 @@
 Go/Rust, 迷茫一年, 现在重新上路, 目前在学习区块链相关知识, 有兴趣的话可以一起交流/学习
 
 # 贡献列表
+- 2024-3-30
+  - https://github.com/move-cn/letsmovebook/blob/main/src/101/Hello_Sui.md
 - 2024-3-24
   - CSDN: https://blog.csdn.net/weixin_44578708/article/details/136979863
   - 登链: https://learnblockchain.cn/article/7696
