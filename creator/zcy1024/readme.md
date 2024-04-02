@@ -16,9 +16,9 @@
 
 ## 2024-03
 
-- Sui安装 VsCode环境配置 MacOS
-- 永远的Hello World，永远的a + b
-- Sui Testnet 简单发布a + b
-- Sui Move 合约升级与权限定制
-- Sui Move One Time Witness, Publisher, Object Display
-- Sui Move Coin(ERC20) && NFT 简单实现
+- [Sui安装 VsCode环境配置 MacOS](https://learnblockchain.cn/article/7691)
+- [永远的Hello World，永远的a + b](https://learnblockchain.cn/article/7692)
+- [Sui Testnet 简单发布a + b](https://learnblockchain.cn/article/7694)
+- [Sui Move 合约升级与权限定制](https://learnblockchain.cn/article/7711)
+- [Sui Move One Time Witness, Publisher, Object Display](https://learnblockchain.cn/article/7748)
+- [Sui Move Coin(ERC20) && NFT 简单实现](https://learnblockchain.cn/article/7767)
