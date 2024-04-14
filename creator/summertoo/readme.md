@@ -10,7 +10,7 @@
 
 # 贡献列表
 
-## 四月 计划创作总数 3篇   配套视频 1篇
+## 四月 计划创作总数 4篇   配套视频 1篇
 
 ### Let's Move Sui环形掌上战争 系列文
 登链 掘金 知乎 csdn 同步更新
@@ -31,6 +31,7 @@ Let's Move 0基础web2向web3迁移指南 (3)
 https://learnblockchain.cn/article/7834
 
 Let's Move 0基础web2向web3迁移指南 (4)
+https://learnblockchain.cn/people/18444
 
 Let's Move 0基础web2向web3迁移指南 (5)
 
