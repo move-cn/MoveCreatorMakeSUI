@@ -22,3 +22,12 @@
 - [Sui Move 合约升级与权限定制](https://learnblockchain.cn/article/7711)
 - [Sui Move One Time Witness, Publisher, Object Display](https://learnblockchain.cn/article/7748)
 - [Sui Move Coin(ERC20) && NFT 简单实现](https://learnblockchain.cn/article/7767)
+
+## 2024-04
+
+- [Sui Move 双手石头剪刀布](https://learnblockchain.cn/article/7805)
+- [Dacade平台 SUI Move 挑战者合约实践 —— Logistics Company](https://learnblockchain.cn/article/7844)
+- [Sui Move 实现一个简单的流动性资金池 —— Simple Swap](https://learnblockchain.cn/article/7854)
+- [Sui Move 实现一个简单的店铺买卖模型 —— Simple Buy-Sell Module](https://learnblockchain.cn/article/7908)
+- [0基础从前端入门到Web3 —— 从测试网 a + b 到主网领Sui挑战](https://learnblockchain.cn/article/7962)
+- [Sui Move 简易版扫雷](https://learnblockchain.cn/article/8011)
