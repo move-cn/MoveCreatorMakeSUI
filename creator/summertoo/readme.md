@@ -5,22 +5,35 @@
 - 微信 : Summer.XJ
 
 # 个人简介
-    我是游戏开发和略懂全栈开发，稍微了解一些开发基础，星航第二期毕业学员，希望通过不断的学习，在sui上作出一些应用和游戏 ！
+我是游戏开发和略懂全栈开发，稍微了解一些开发基础，星航第二期毕业学员，希望通过不断的学习，在sui上作出一些应用和游戏 ！
 
 # 贡献列表
+## 五月 计划创作总数 1 篇 配套视频 X篇
 
-## 四月 计划创作总数 6篇   配套视频 1篇
+### Let's Move Sui环形掌上战争 系列文
+登链 掘金 知乎 csdn 同步更新
+Let's Move Sui环形掌上战争 0基础开发入门到精通(8)
+Let's Move Sui环形掌上战争 0基础开发入门到精通(9)
+
+### 0基础开发web3游戏&应用系列
+登链 掘金 知乎 csdn 同步更新
+Let's Move 0基础web2向web3迁移指南 (5)
+
+### 从前端到web3入门教程 
+登链 掘金 知乎 csdn 同步更新
+Let's Move 从前端到web3入门教程 (3) Navi竞赛奖励第5期
+https://learnblockchain.cn/article/8059
+
+## 四月 创作总数 6篇  配套视频 1篇
 
 ### Let's Move Sui环形掌上战争 系列文
 登链 掘金 知乎 csdn 同步更新
 Let's Move Sui环形掌上战争 0基础开发入门到精通(7)
 https://learnblockchain.cn/article/7863
 
-Let's Move Sui环形掌上战争 0基础开发入门到精通(8)
-
-Let's Move Sui环形掌上战争 0基础开发入门到精通(9)
 
 ### 从0开始开发Sui工具类应用
+登链 掘金 知乎 csdn 同步更新
 Let's Move 从0开始开发Sui工具类应用 (1)
 https://learnblockchain.cn/article/7850
 
@@ -32,9 +45,9 @@ https://learnblockchain.cn/article/7834
 Let's Move 0基础web2向web3迁移指南 (4)
 https://learnblockchain.cn/people/18444
 
-Let's Move 0基础web2向web3迁移指南 (5)
 
 ### 从前端到web3入门教程 
+登链 掘金 知乎 csdn 同步更新
 Let's Move 从前端到web3入门教程 (1) NaviSdk悬赏奖励
 https://learnblockchain.cn/article/7932
 
