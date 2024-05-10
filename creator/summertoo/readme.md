@@ -8,7 +8,7 @@
 我是游戏开发和略懂全栈开发，稍微了解一些开发基础，星航第二期毕业学员，希望通过不断的学习，在sui上作出一些应用和游戏 ！
 
 # 贡献列表
-## 五月 计划创作总数 1 篇 配套视频 X篇
+## 五月 计划创作总数 2 篇 配套视频 X篇
 
 ### Let's Move Sui环形掌上战争 系列文
 登链 掘金 知乎 csdn 同步更新
@@ -17,7 +17,8 @@ Let's Move Sui环形掌上战争 0基础开发入门到精通(9)
 
 ### 0基础开发web3游戏&应用系列
 登链 掘金 知乎 csdn 同步更新
-Let's Move 0基础web2向web3迁移指南 (5)
+Let's Move 0基础web2向web3迁移指南 (5) Sui zkSend红包 SDK
+https://learnblockchain.cn/article/8103
 
 ### 从前端到web3入门教程 
 登链 掘金 知乎 csdn 同步更新
