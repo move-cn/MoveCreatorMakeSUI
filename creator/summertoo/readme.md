@@ -8,7 +8,7 @@
 我是游戏开发和略懂全栈开发，稍微了解一些开发基础，星航第二期毕业学员，希望通过不断的学习，在sui上作出一些应用和游戏 ！
 
 # 贡献列表
-## 五月 计划创作总数 4 篇 配套视频 X 篇
+## 五月 计划创作总数 5 篇 配套视频 X 篇
 
 ### Let's Move Sui环形掌上战争 系列文
 登链 掘金 知乎 csdn 同步更新
@@ -30,6 +30,9 @@ https://learnblockchain.cn/article/8130
 
 Let's Move 从前端到web3入门教程 (5) Navi竞赛补充
 https://learnblockchain.cn/article/8171
+
+Let's Move 从前端到web3入门教程 (6) Navi竞赛奖励第7期
+https://learnblockchain.cn/article/8176
 
 ## 四月 创作总数 6篇  配套视频 1篇
 
