@@ -31,3 +31,12 @@
 - [Sui Move 实现一个简单的店铺买卖模型 —— Simple Buy-Sell Module](https://learnblockchain.cn/article/7908)
 - [0基础从前端入门到Web3 —— 从测试网 a + b 到主网领Sui挑战](https://learnblockchain.cn/article/7962)
 - [Sui Move 简易版扫雷](https://learnblockchain.cn/article/8011)
+
+## 2024-05
+
+- [Sui Move 实现一个简单的票务系统](https://learnblockchain.cn/article/8055)
+- [Sui Move 动态（对象）字段 —— 一个简单的闲置买卖平台](https://learnblockchain.cn/article/8120)
+- [0基础从前端到Web3 —— Vite + React + TS moveCall a + b](https://learnblockchain.cn/article/8157)
+- [0基础从前端到Web3 —— Mine Clearance Frontend（一）](https://learnblockchain.cn/article/8194)
+- [0基础从前端到Web3 —— Mine Clearance Frontend（二）](https://learnblockchain.cn/article/8198)
+- [Sui Move 实现一个简单的无需管理的自动开奖系统 —— Self-service lottery](https://learnblockchain.cn/article/8215)
