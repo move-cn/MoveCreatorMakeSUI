@@ -8,25 +8,44 @@
 
 # 贡献列表
 
+## 6 月贡献
+
+### 原创文章（`6` 篇）
+
+| 发布时间   | 文章链接                                                                                                       | 阅读量<br>（截止到 6 月 30 日） |
+| ---------- | -------------------------------------------------------------------------------------------------------------- | :-----------------------------: |
+| 2024.06.03 | [玩转 Sui 多签钱包 1：普通公钥多签钱包 @SUI Move 开发必知必会](https://learnblockchain.cn/article/8325)        |               532               |
+| 2024.06.14 | [本地搭建和测试 zkLogin 零知识证明服务 @SUI Move 开发必知必会](https://learnblockchain.cn/article/8371)        |               337               |
+| 2024.06.22 | [SUI Move 官方示例合约实践——NFT 类：零信任原子交换（trustless swap）](https://learnblockchain.cn/article/8449) |               156               |
+| 2024.06.23 | [手把手带你构建 Sui 的索引器及 RPC 服务 @SUI Move 开发必知必会](https://learnblockchain.cn/article/8471)       |               182               |
+| 2024.06.24 | [手把手带你构建 Sui 零信任交换 DApp 前端 @SUI Move 开发必知必会](https://learnblockchain.cn/article/8529)      |               99                |
+| 2024.06.28 | [玩转 Sui 多签钱包 2：zkLogin 公钥多签钱包 @SUI Move 开发必知必会](https://learnblockchain.cn/article/8554)    |               78                |
+
+### PR 贡献（`1`个）
+
+| 提交时间   | 分类  |                          链接                          | 状态       |
+| ---------- | ----- | :----------------------------------------------------: | ---------- |
+| 2024.06.27 | `BUG` | [#18404](https://github.com/MystenLabs/sui/pull/18404) | **Merged** |
+
 ## 5 月贡献
 
 ### 原创文章（`6` 篇）
 
-| 发布时间   | 文章链接                                                                                                         | 阅读量<br>（截止到 5 月 30 日） |
+| 发布时间   | 文章链接                                                                                                         | 阅读量<br>（截止到 6 月 30 日） |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- | :-----------------------------: |
-| 2024.05.30 | [SUI CLI 最全命令详解 5——Keytool 之 zkLogin 类](https://learnblockchain.cn/article/8263)                         |                3                |
-| 2024.05.28 | [Sui zkLogin 核心交互逻辑拆解](https://learnblockchain.cn/article/8252)                                          |               101               |
-| 2024.05.26 | [SUI CLI 最全命令详解 4——Keytool 之单签多签类](https://learnblockchain.cn/article/8235)                          |               82                |
-| 2024.05.25 | [SUI CLI 最全命令详解 3——Keytool 之密钥对类](https://learnblockchain.cn/article/8203)                            |               151               |
-| 2024.05.18 | [SUI CLI 常用命令解析 2——Client PTB](https://learnblockchain.cn/article/8156)                                    |               268               |
-| 2024.05.09 | [SUI Move 官方示例合约实践——NFT 类：盲盒空投 NFT（random_nft_airdrop）](https://learnblockchain.cn/article/8100) |               244               |
+| 2024.05.30 | [SUI CLI 最全命令详解 5——Keytool 之 zkLogin 类](https://learnblockchain.cn/article/8263)                         |               517               |
+| 2024.05.28 | [Sui zkLogin 核心交互逻辑拆解](https://learnblockchain.cn/article/8252)                                          |               443               |
+| 2024.05.26 | [SUI CLI 最全命令详解 4——Keytool 之单签多签类](https://learnblockchain.cn/article/8235)                          |               359               |
+| 2024.05.25 | [SUI CLI 最全命令详解 3——Keytool 之密钥对类](https://learnblockchain.cn/article/8203)                            |               448               |
+| 2024.05.18 | [SUI CLI 常用命令解析 2——Client PTB](https://learnblockchain.cn/article/8156)                                    |               508               |
+| 2024.05.09 | [SUI Move 官方示例合约实践——NFT 类：盲盒空投 NFT（random_nft_airdrop）](https://learnblockchain.cn/article/8100) |               464               |
 
 ### PR 贡献（`6`个）
 
 | 提交时间   | 分类   |                          链接                          | 状态       |
 | ---------- | ------ | :----------------------------------------------------: | ---------- |
-| 2024.05.30 | `BUG`  | [#17993](https://github.com/MystenLabs/sui/pull/17993) | **Open**   |
-| 2024.05.30 | `BUG`  | [#17989](https://github.com/MystenLabs/sui/pull/17989) | **Open**   |
+| 2024.05.30 | `BUG`  | [#17993](https://github.com/MystenLabs/sui/pull/17993) | **Merged** |
+| 2024.05.30 | `BUG`  | [#17989](https://github.com/MystenLabs/sui/pull/17989) | **Merged** |
 | 2024.05.28 | `优化` | [#17950](https://github.com/MystenLabs/sui/pull/17950) | **Merged** |
 | 2024.05.25 | `BUG`  | [#17935](https://github.com/MystenLabs/sui/pull/17935) | **Merged** |
 | 2024.05.18 | `优化` | [#17815](https://github.com/MystenLabs/sui/pull/17815) | **Merged** |
